@@ -104,15 +104,12 @@ We discovered that
 
 - What do you recommend based on the insights gathered?
 
-1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK.
-2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
-3. Mister Max is the best YouTuber to collaborate with if we’re interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options, considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
-4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
+1. United State is the highest top sales by country, therefore i recommend we take more orders from United State compared to other countries. 
+2. With regards to the top customers by sales, it may be worth considering collaborating or given special as the potential return on investments is significantly high in the longrun.
+3. Regarding the coffee types, the findings suggest that since Libirical and Arabica had the highest sales over the years, with Arabica reaching $841 in 2021 and Libirical achieving a total of about $844 in 2022, we recommend that the coffee shop produce more of these to maximize sales. Additionally, considering the fluctuation in sales from 2019 to 2022, we suggest analyzing the year with the highest sales and identifying the factors that contributed to that success to apply them in future years.
 
 
 # Conclusion
 
-Base on the findings and analysis of the viewership and views per subscriber, Dan Rhodes appears to be the best option to advance with due to higher returns of investment compared to other channels.
-Hence the conclusion was that the head of marketing, will work with Dan Rhodes to run it`s current marketing campaing throughout the rest of the year as per the analysis. 
-
+Base on the findings and analysis of the coffee sale dashcoard, we can conclude that the project showcases the effectiveness of exploratory data analysis in providing useful insights in dataset that involved the customers, products and the orders.
 
