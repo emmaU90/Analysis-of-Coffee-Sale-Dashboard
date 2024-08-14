@@ -18,7 +18,8 @@
 # Objective
 
 - What is the key main point?
-The aim of this project is to build an interactive microsoft excel dashboard to allow the users to quickly identify trends in the coffee base sales as well as perform exploratory data analysis on the available datasets to generate actionable insights and recommendations.
+-
+The aim of this project is to build an interactive microsoft excel dashboard to allow the users to quickly identify trends in the coffee sales as well as perform exploratory data analysis on the available datasets to generate actionable insights and recommendations.
 
 - What is the ideal solution?
   
@@ -28,15 +29,15 @@ The aim of this project is to build an interactive microsoft excel dashboard to 
 - top customer
 - top country orders
 
-This will help the coffee shop to make informed decisions on where to maximum is order to.
+This will help the coffee shop to make informed decisions on how to maximum its orders.
 
 # Data source
 
 - What data is needed to achieve this objective?
 
-We need data on the coffe orders, consumers and product which includes their
+We need data on the coffe orders, customers and products which includes their
 
-- order countery
+- order country
 - time period
 - coffee type
 - customers, order and product ID
@@ -44,9 +45,9 @@ We need data on the coffe orders, consumers and product which includes their
 
 # Stages
 
--Examine both product, order and customer datasets for inconsistencies, missing values, outliers, correctly identify categorical and numerical data.
--Define metrics such as total sales, time trend, and the top sales by country.
--Explore the data, create charts and graphs to visualise trends and insights for business recommendations.
+- Examine both product, order and customer datasets for inconsistencies, missing values, outliers, correctly identify categorical and numerical data.
+- Define metrics such as total sales, time trend, and the top sales by country.
+- Explore the data, create charts and graphs to visualise trends and insights for business recommendations.
 
 # Data cleaning
 
@@ -97,8 +98,8 @@ Here are the key questions we need to answer for our client:
 
 We discovered that
 1. United State is the highest order sales by country, followed by Ireland, with United Kingdom being the last top sales by country.
-2. Don Flintiff, Nealson Cuttler, Terri Farra, Brenn Dundredge and Allis are the to[ customers by sales.
-3. 2021 was the year with the highest sales with a sum of *$13,766*, 2020 sales was *$12,118*, 2019 sales was a total of *$12,187*, and lastly 2022 which was the lowest sales with a sum of *$7,063*.
+2. Don Flintiff, Nealson Cuttler, Terri Farra, Brenn Dundredge and Allis are the top customers by sales.
+3. 2021 was the year with the highest sales with a sum of **$13,766**, 2020 sales was **$12,118**, 2019 sales was a total of **$12,187**, and lastly 2022 which was the lowest sales with a sum of **$7,063**.
 
  # Recommendations
 
