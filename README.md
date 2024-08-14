@@ -106,7 +106,7 @@ We discovered that
 - What do you recommend based on the insights gathered?
 
 1. United State is the highest top sales by country, therefore i recommend we take more orders from United State compared to other countries. 
-2. With regards to the top customers by sales, it may be worth considering collaborating or given special as the potential return on investments is significantly high in the longrun.
+2. With regards to the top customers by sales, it may be worth considering collaborating or give out special, as the potential of return on investments is significantly high in the longrun.
 3. Regarding the coffee types, the findings suggest that since Libirical and Arabica had the highest sales over the years, with Arabica reaching $841 in 2021 and Libirical achieving a total of about $844 in 2022, we recommend that the coffee shop produce more of these to maximize sales. Additionally, considering the fluctuation in sales from 2019 to 2022, we suggest analyzing the year with the highest sales and identifying the factors that contributed to that success to apply them in future years.
 
 
