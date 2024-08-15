@@ -1,4 +1,4 @@
-# Tittle: Analysis-of-Coffee-Sale-Dashboard
+# Tittle: Analysis of Coffee Sale Dashboard
 
 ![Coffee-Sales-Anaysis](assets/images/istockphoto-1504611854-1024x1024.jpg)
 
